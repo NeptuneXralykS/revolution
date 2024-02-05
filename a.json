@@ -1,0 +1,36 @@
+{
+    "name": "Revcoin",
+    "symbol": "REVO",
+    "description": "Revcoin is a revolutionary digital asset aimed at reshaping the gaming landscape. Focused on empowering users and facilitating access to play to earn gaming, Revcoin is at the forefront of the fintech revolution.",
+    "image": "https://github.com/NeptuneXralykS/revolution/blob/main/revcoin-logo.png?raw=true",
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "Gaming"
+      },
+      {
+        "trait_type": "Focus",
+        "value": "Empowerment"
+      }
+    ],
+    "collection": {
+      "name": "Revcoin",
+      "family": "Revolution"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/NeptuneXralykS/revolution/blob/main/revcoin-logo.png?raw=true",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "YEK72nRha7PJAjP7miGn53C8HUqwMcSKwp5odkMSGBaRr",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
