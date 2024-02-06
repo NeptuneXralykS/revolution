@@ -2,7 +2,7 @@
   "name": "Revcoin",
   "symbol": "REVO",
   "description": "Revcoin is the currency of the revolution, empowering users through blockchain technology and decentralized finance.",
-  "seller_fee_basis_points": 500, // This is 5.00%
+  "seller_fee_basis_points": 500, 
   "image": "https://github.com/NeptuneXralykS/revolution/blob/main/revcoin-logo.png?raw=true",
   "attributes": [
     {
@@ -28,8 +28,8 @@
     "category": "image",
     "creators": [
       {
-        "address": "EK72nRha7PJAjP7miGn53C8HUqwMcSKwp5odkMSGBaRr", // Replace with your actual wallet address
-        "share": 100 // The total should add up to 100%
+        "address": "EK72nRha7PJAjP7miGn53C8HUqwMcSKwp5odkMSGBaRr", 
+        "share": 100 
       }
     ]
   }
