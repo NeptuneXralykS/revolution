@@ -1,21 +1,22 @@
 {
   "name": "Revcoin",
   "symbol": "REVO",
-  "description": "Revcoin is a revolutionary digital asset aimed at reshaping the gaming landscape. Focused on empowering users and facilitating access to play to earn gaming, Revcoin is at the forefront of the fintech revolution.",
+  "description": "Revcoin is the currency of the revolution, empowering users through blockchain technology and decentralized finance.",
+  "seller_fee_basis_points": 500, // This is 5.00%
   "image": "https://github.com/NeptuneXralykS/revolution/blob/main/revcoin-logo.png?raw=true",
   "attributes": [
     {
       "trait_type": "Utility",
-      "value": "Gaming"
+      "value": "Empowerment and Engagement"
     },
     {
-      "trait_type": "Action",
-      "value": "Revolution"
+      "trait_type": "Blockchain",
+      "value": "Solana"
     }
   ],
   "collection": {
-    "name": "Revcoin Genesis Collection",
-    "family": "Revolution"
+    "name": "Revolutionary Tokens",
+    "family": "Revcoin"
   },
   "properties": {
     "files": [
@@ -27,8 +28,8 @@
     "category": "image",
     "creators": [
       {
-        "address": "EK72nRha7PJAjP7miGn53C8HUqwMcSKwp5odkMSGBaRr"
-        "share": 100
+        "address": "EK72nRha7PJAjP7miGn53C8HUqwMcSKwp5odkMSGBaRr", // Replace with your actual wallet address
+        "share": 100 // The total should add up to 100%
       }
     ]
   }
